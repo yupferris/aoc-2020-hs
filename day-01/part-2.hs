@@ -1,4 +1,4 @@
--- input | runhaskell part-2.hs
+-- cat input | runhaskell part-2.hs
 
 main = interact solve
 

@@ -1,4 +1,4 @@
--- input | runhaskell part-1.hs
+-- cat input | runhaskell part-1.hs
 
 import Data.Char (ord)
 
